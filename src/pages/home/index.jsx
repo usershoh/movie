@@ -4,7 +4,7 @@ import MovieCard from "../../components/movieCard";
 
 const Home = () => {
   return (
-    <main className="w-[80%] m-auto pt-[20px]">
+    <main className="w-[80%] m-auto">
       <MovieCard />
     </main>
   );
